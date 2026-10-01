@@ -23,7 +23,18 @@ Beginner in C and Dart.
 
 [Itch.io](https://themooster86.itch.io/)
 
-|Software Proficiencies|
+# Software Proficiencies
+Visual Studio
+
+Unity
+
+Microsoft Office
+
+Github
+
+Flutter
+
+
 
 
 
