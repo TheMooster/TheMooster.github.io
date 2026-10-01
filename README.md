@@ -1,7 +1,7 @@
 # DYLAN WASKO
 
 
-## Full stack developer wit
+## Full stack developer with 3.5 years of experience.
 
 
 LUA             |  PYTHON                   | JAVA
@@ -12,17 +12,19 @@ C#             |  C                   | Dart
 
 
 
+# Experience
+3.5 years of programming experience with various languages.
 
-\
+Proficient with Lua and Python.
 
-Skills
-Object Oriented Programming
-Quality Assurance
-Git
+Intermediate with C# and Java.
 
-Applications
-Unity
-Microsoft Office
-Visual Studio
-GitHub
-Flutter
+Beginner in C and Dart.
+
+[Itch.io](https://themooster86.itch.io/)
+
+|Software Proficiencies|
+
+
+
+
