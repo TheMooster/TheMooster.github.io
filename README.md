@@ -13,7 +13,7 @@ C#             |  C                   | Dart
 
 
 # Experience
-3.5 years of programming experience with various languages.
+3.5 years of programming experience with various languages and software.
 
 Proficient with Lua and Python.
 
